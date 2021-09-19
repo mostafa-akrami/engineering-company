@@ -1,0 +1,254 @@
+@media screen and (max-width:1400px) {
+
+    .wolf .wolf-content p {
+        width: 60%;
+        font-size: 15px;
+        line-height: 1.5;
+    }
+
+    .monkey .monkey-content p {
+        font-size: 15px;
+    }
+
+    .sky {
+        height: 900px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+
+    .wolf .wolf-content p {
+        width: 41%;
+        line-height: 1.2;
+    }
+
+    .monkey .monkey-title {
+        width: 50%;
+    }
+
+    .monkey .monkey-content p {
+        width: 80%;
+        text-align: center;
+        margin: 0 auto;
+        font-size: 15px;
+    }
+
+    footer {
+        background-position: center;
+    }
+
+    footer .overlay .footer-title p {
+        width: 80%;
+        font-size: 15px;
+        margin: 0 auto;
+    }
+
+    footer .overlay .description p {
+        width: 80%;
+        font-size: 15px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width:992px) {
+
+    .wolf .wolf-content p {
+        width: 80%;
+        margin: 0 auto;
+        line-height: 2;
+        background-color: rgba(22, 2, 31, 0.6);
+        border-radius: 5px;
+        padding: 10px;
+        color: rgb(240, 240, 240);
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    .monkey .monkey-title {
+        background-color: rgba(22, 2, 31, 0.6);
+        border-radius: 5px;
+        padding: 10px;
+        color: #fff;
+    }
+}
+
+@media screen and (max-width:768px) {
+
+    .wolf .wolf-title {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .wolf .wolf-title h1 {
+        font-size: 30px;
+    }
+
+    .wolf .wolf-title p {
+        font-size: 16px;
+    }
+
+    .wolf .wolf-content {
+        width: 80%;
+    }
+
+    .wolf .wolf-content p {
+        width: 100%;
+        font-size: 15px;
+    }
+
+    .monkey .monkey-title h1 {
+        font-size: 30px;
+    }
+
+    .monkey .monkey-title p {
+        font-size: 16px;
+    }
+
+    .monkey .monkey-content {
+        width: 90%;
+    }
+
+    .monkey .monkey-content p {
+        font-size: 15px;
+    }
+
+    footer {
+        height: 720px;
+    }
+
+    footer .overlay .footer-title {
+        width: 90%;
+    }
+
+    footer .overlay .footer-title h1 {
+        font-size: 30px;
+    }
+
+    footer .overlay .footer-title p {
+        font-size: 14px;
+    }
+
+    footer .overlay form {
+        width: 70%;
+    }
+
+    footer .overlay .social {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    footer .overlay .social ul li a svg {
+        font-size: 20px;
+    }
+
+    footer .overlay .description {
+        width: 90%;
+    }
+
+    footer .overlay .description p {
+        line-height: 1.5;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    .monkey .monkey-content {
+        width: 80%;
+        background-color: rgba(22, 2, 31, 0.6);
+        border-radius: 5px;
+        padding: 10px;
+    }
+
+    .monkey .monkey-content p {
+        width: 100%;
+        text-align: right;
+    }
+}
+
+@media screen and (max-width:400px) {
+
+    header {
+        height: 450px;
+    }
+
+    .moon {
+        width: 60px;
+        top: 85%;
+    }
+
+    header nav ul li {
+        margin: 50px 7px 0 7px;
+    }
+
+    header nav ul li a {
+        font-size: 16px;
+    }
+
+    .wolf .wolf-title h1 {
+        font-size: 20px;
+    }
+
+    .wolf .wolf-title p {
+        font-size: 14px;
+    }
+
+    .wolf .wolf-content {
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    .wolf .wolf-content p {
+        font-size: 14px;
+    }
+
+    .monkey .monkey-title {
+        margin: 0 auto;
+    }
+
+    .monkey .monkey-title h1 {
+        font-size: 20px;
+    }
+
+    .monkey .monkey-title p {
+        font-size: 14px;
+    }
+
+    .monkey .monkey-content {
+        width: 85%;
+    }
+
+    .monkey .monkey-content p {
+        font-size: 14px;
+    }
+
+    footer {
+        height: 800px;
+    }
+
+    footer .overlay .footer-title {
+        width: 90%;
+    }
+
+    footer .overlay .footer-title h1 {
+        font-size: 20px;
+    }
+
+    footer .overlay .footer-title p {
+        font-size: 14px;
+    }
+
+    footer .overlay form {
+        width: 80%;
+    }
+
+    footer .overlay .description {
+        width: 85%;
+    }
+
+    footer .overlay .description p {
+        font-size: 14px;
+    }
+}
